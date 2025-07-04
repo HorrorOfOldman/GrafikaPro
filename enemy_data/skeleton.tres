@@ -1,0 +1,12 @@
+[gd_resource type="Resource" load_steps=3 format=3 uid="uid://bgvrmx005sf50"]
+
+[ext_resource type="Script" uid="uid://ckxubhhlxxwt7" path="res://script/BaseEnemy.gd" id="1_7p0fg"]
+[ext_resource type="Texture2D" uid="uid://cg8b0yhda53rq" path="res://gr_enemy/skeleton3.png" id="2_7p0fg"]
+
+[resource]
+script = ExtResource("1_7p0fg")
+name = "Szkielet"
+texture = ExtResource("2_7p0fg")
+health = 30
+damage = 5
+level = 1

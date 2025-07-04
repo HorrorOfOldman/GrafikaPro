@@ -1,0 +1,97 @@
+[remap]
+
+importer="scene"
+importer_version=1
+type="PackedScene"
+uid="uid://1epsdpqbcpar"
+path="res://.godot/imported/katakumby2.glb-30a243e041d1aa7cb029bf4a3c46e6d1.scn"
+
+[deps]
+
+source_file="res://3D/build/katakumby2.glb"
+dest_files=["res://.godot/imported/katakumby2.glb-30a243e041d1aa7cb029bf4a3c46e6d1.scn"]
+
+[params]
+
+nodes/root_type=""
+nodes/root_name=""
+nodes/apply_root_scale=true
+nodes/root_scale=1.0
+nodes/import_as_skeleton_bones=false
+nodes/use_node_type_suffixes=true
+meshes/ensure_tangents=true
+meshes/generate_lods=true
+meshes/create_shadow_meshes=true
+meshes/light_baking=1
+meshes/lightmap_texel_size=0.2
+meshes/force_disable_compression=false
+skins/use_named_skins=true
+animation/import=true
+animation/fps=30
+animation/trimming=false
+animation/remove_immutable_tracks=true
+animation/import_rest_as_RESET=false
+import_script/path=""
+_subresources={
+"nodes": {
+"PATH:Cube": {
+"generate/physics": true
+},
+"PATH:Cube_001": {
+"generate/physics": true
+},
+"PATH:Cube_002": {
+"generate/physics": true
+},
+"PATH:Cube_005": {
+"generate/physics": true
+},
+"PATH:F0": {
+"generate/physics": true
+},
+"PATH:F0_001": {
+"generate/physics": true
+},
+"PATH:F1": {
+"generate/physics": true
+},
+"PATH:F1_001": {
+"generate/physics": true
+},
+"PATH:F1_002": {
+"generate/physics": true
+},
+"PATH:Icosphere": {
+"generate/physics": true
+},
+"PATH:K0": {
+"generate/physics": true
+},
+"PATH:Ogr1": {
+"generate/physics": true
+},
+"PATH:Ogr1_001": {
+"generate/physics": true
+},
+"PATH:Ogr1_002": {
+"generate/physics": true
+},
+"PATH:Ogr1_003": {
+"generate/physics": true
+},
+"PATH:Rampa_boss": {
+"generate/physics": true
+},
+"PATH:czacha": {
+"generate/physics": true
+},
+"PATH:kolumny": {
+"generate/physics": true
+},
+"PATH:kraty": {
+"generate/physics": true
+}
+}
+}
+gltf/naming_version=1
+gltf/embedded_image_handling=1

@@ -1,0 +1,12 @@
+[gd_resource type="Resource" load_steps=3 format=3 uid="uid://bv8aui63rbeqs"]
+
+[ext_resource type="Script" uid="uid://ckxubhhlxxwt7" path="res://script/BaseEnemy.gd" id="1_ikj4c"]
+[ext_resource type="Texture2D" uid="uid://dw1luhpuv8aj3" path="res://gr_enemy/mimic2.png" id="2_ikj4c"]
+
+[resource]
+script = ExtResource("1_ikj4c")
+name = "Mimik"
+texture = ExtResource("2_ikj4c")
+health = 50
+damage = 7
+level = 2
